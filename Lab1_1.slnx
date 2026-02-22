@@ -1,3 +1,9 @@
 <Solution>
-  <Project Path="Lab1_1/Lab1_1.csproj" />
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab1_1++/Lab1_1++.vcxproj" Id="89c0fac9-41d3-462f-bf5d-8485124e8375" />
+  <Project Path="Lab1_1/Lab1_1_CS.csproj" />
 </Solution>
